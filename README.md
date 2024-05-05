@@ -22,7 +22,7 @@
   <a href="mailto:jalal.altaf92@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="(https://www.linkedin.com/in/jalal-altaf-066411266/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/jalal-altaf-066411266/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/JalalAltaf/JalalAltaf" target="_blank">
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,,express,mongodb,c#,c++,.Net,sqlserver,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,,express,mongodb,c++,.Net,sqlserver,mysql," /><br>
 </div>
 
 <br/>
