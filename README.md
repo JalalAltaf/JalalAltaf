@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jalal+Altaf!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Pakistan 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Pakistan PK(url)</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **ML, Python, Game Development**
 
-💬 Ask me about **Node.js, React, Express.js ... or anything [here](https://github.com/JalalAltaf/JalalAlta/issues)**
+💬 Ask me about **Node.js, React, Express.js ... or anything [here](jalal.altaf92@gmail.com)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -44,13 +44,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JalalAltaf/JalalAltaf/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
